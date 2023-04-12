@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/thunur/elastic/v7/uritemplates"
 )
 
 // SnapshotRestoreService restores a snapshot from a snapshot repository.

@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/thunur/elastic/v7/uritemplates"
 )
 
 // IndicesStatsService provides stats on various metrics of one or more
